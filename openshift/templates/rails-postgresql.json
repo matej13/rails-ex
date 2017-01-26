@@ -5,7 +5,7 @@
     "name": "rails-postgresql-example",
     "annotations": {
       "openshift.io/display-name": "Rails + PostgreSQL (Ephemeral)",
-      "description": "An example Rails application with a PostgreSQL database. For more information about using this template, including OpenShift considerations, see https://github.com/openshift/rails-ex/blob/master/README.md.\n\nWARNING: Any data stored will be lost upon pod destruction. Only use this template for testing.",
+      "description": "Matej - An example Rails application with a PostgreSQL database. For more information about using this template, including OpenShift considerations, see https://github.com/openshift/rails-ex/blob/master/README.md.\n\nWARNING: Any data stored will be lost upon pod destruction. Only use this template for testing.",
       "tags": "quickstart,ruby,rails",
       "iconClass": "icon-ruby"
     }
